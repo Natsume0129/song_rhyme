@@ -36,7 +36,7 @@ The project focuses on basic first-person interaction, UI navigation, and video-
 ## Demo
 - Video: https://www.youtube.com/watch?v=-LuCbVn03BY
 - Screenshots: 
-![[Pasted image 20251217152120.png]]
+ (README_assets/screenshot_01.png)
 ## Notes
 This repository contains the Unity project source files only.
 Generated folders such as `Library` and build outputs are excluded.
