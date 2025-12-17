@@ -28,10 +28,19 @@ The project focuses on basic first-person interaction, UI navigation, and video-
 - TextMeshPro
 - Autodesk 3ds max
 
-## How to Run
-1. Open the project using **Unity Hub**.
-2. Use **Unity 2022.x LTS**.
-3. Press **Play** in the Unity Editor.
+## Download
+- Demo video: https://www.youtube.com/watch?v=-LuCbVn03BY
+- Full resources (unitypackage / assets pack):[ <Drive link>](https://drive.google.com/drive/folders/1oqeFjmadOfk_bXGORfSCvQMLos0cHzjW?usp=sharing)
+
+## How to Run (Recommended)
+### Option A: Run the executable
+1. Download the Windows build from the link above.
+2. Unzip and run the `.exe`.
+
+### Option B: Run in Unity Editor
+1. Install Unity 2022.x LTS via Unity Hub.
+2. Download and import the provided `*.unitypackage` (resources).
+3. Open the project and press Play.
 
 ## Demo
 - Video: https://www.youtube.com/watch?v=-LuCbVn03BY
