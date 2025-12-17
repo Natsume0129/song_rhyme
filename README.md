@@ -1,4 +1,4 @@
-# Song rhyme and china culture show
+# Song ryhme and china culture show
 
 ## Overview
 This project is a Unity-based interactive application developed as a personal / academic project.
