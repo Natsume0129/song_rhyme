@@ -6,6 +6,8 @@
 [Ll]ogs/
 .vs/
 UserSettings/
+screen_records.mkv
+
 
 # IDE / Unity generated
 *.csproj
